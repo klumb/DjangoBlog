@@ -25,7 +25,7 @@ SECRET_KEY = 'ps@#gvsl$xu@hp$pyr^uox+*l^=ifkp8(b$2^n8=-1^3(@doen'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hrosser.pythonanywhere.com']
 
 
 # Application definition
@@ -113,7 +113,6 @@ USE_I18N = True
 USE_L10N = True
 
 USE_TZ = True
-
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
