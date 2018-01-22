@@ -25,7 +25,7 @@ SECRET_KEY = 'ps@#gvsl$xu@hp$pyr^uox+*l^=ifkp8(b$2^n8=-1^3(@doen'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hrosser.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
